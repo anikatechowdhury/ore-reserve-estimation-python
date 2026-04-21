@@ -134,13 +134,13 @@ This workflow can be extended using:
 ---
 
 ## Author
-
-**Anikate Chowdhury**
-M.Sc. Applied Geology (2nd Year), Presidency University, Kolkata
-GitHub: [github.com/anikatechowdhury](https://github.com/anikatechowdhury)
+Anikate Chowdhury  
+ORCID: https://orcid.org/0009-0004-5580-2470
 
 ---
 
-## License
+## Citation
+If you use this methodology or implementation logic in academic or technical work,
+please cite this repository. 
 
-MIT License
+DOI: 
